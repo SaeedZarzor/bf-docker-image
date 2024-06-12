@@ -33,7 +33,7 @@ subsection General
         set Damention ratio                               = 1.2
 	
  # Total time
-        set Total time                                    = 1000 
+        set Total time                                    = 1 
 
  # Time step size
         set Time step size                                = 0.1 
@@ -63,7 +63,7 @@ subsection General
         set The shear modulus of conrtex                 = 2.07 
 
  # The ratio of stiffness between cortex and subcortex  mu_cmax/mu_smax
-        set The ratio of stiffness                       = 3 
+        set The ratio of stiffness                       = 5 
 
  # The max cell density where the stiffness still constant c_max
         set The max cell density                         = 700 
@@ -75,7 +75,7 @@ subsection General
         set Growth exponent                               = 1.65 
 
  # Growth ratio
-        set  Growth ratio                                 = 1.5 
+        set  Growth ratio                                = 3 
 
  # Cell dvision rate in ventricular zone G^c_v [1/(mm^2 wk)]
         set Cell dvision rate of RGCs                    = 60 
